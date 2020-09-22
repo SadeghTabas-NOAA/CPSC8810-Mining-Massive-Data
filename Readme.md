@@ -1,6 +1,6 @@
 ## CPSC8810 - Mining Massive Data
 
-### Assignments:
+### Timeline:
 | Todo List | Deadline | Status |
 | --- | --- | --- |
 | Download the Datasets from GRDC website | Sep 14 | Done! |
