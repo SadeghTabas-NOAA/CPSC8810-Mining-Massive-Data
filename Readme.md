@@ -25,7 +25,8 @@ Models:
     4. folium.py visualizes station information and corresponding streamflow time series in a global map using folium package
     5. LSTM_Singlelayer, LSTM_CNN, MLP are three data driven models used in our project
     6. Streamflow prediction app with keras,django is an app to run inference on streamflow prediction model for one station
-    7. 
+    7. encoder_decoder_lstm.py implements the seq2seq encoder-decoder LSTM network for future forecast and achived valid RMSE score of 116.46249
+    8. Web Platform for Dynamical Streamflow Prediction with leaflet, jQuery 
 
 
 
