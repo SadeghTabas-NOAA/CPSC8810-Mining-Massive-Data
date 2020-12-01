@@ -14,7 +14,7 @@
 
 ### Folder description
 
-Datasets:
+Datasets: Each input station data comprises information from both GRDC and NCDC stations
 Documents: Empty
 Reports: Contains checkpoint reports
 Models:
