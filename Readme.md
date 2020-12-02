@@ -11,9 +11,10 @@
     Meghan Patil
 
 ### Project Description: 
-    In this research a number of data driven (machine learning and deep learning) and data mining methods including multi-layer perceptron (MLP), 
-    long short-term memory (LSTM) and a hybrid deep learning method of convolutional neural network and LSTM have been implemented in a web designed 
-    platform to predict sequential flow rate values based on a set of collected runoff factors in a global scale (North America, South America and Africa).
+    In this research a number of data driven (machine learning and deep learning) and data mining methods
+    including multi-layer perceptron (MLP), long short-term memory (LSTM) and a hybrid deep learning method 
+    of convolutional neural network and LSTM have been implemented in a web designed platform to predict sequential
+    flow rate values based on a set of collected runoff factors in a global scale (North America, South America and Africa).
 
 ### Required Packages and Libraries:
     Tensorflow
