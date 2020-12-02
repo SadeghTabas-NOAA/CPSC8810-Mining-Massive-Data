@@ -1,10 +1,16 @@
 ## CPSC8810 - Mining Massive Data Project
 
-## Project Title: A Web Platform for Dynamical Streamflow Prediction Using Machine Learning and Deep Learning Methods
+### Project Title: 
+            A Web Platform for Dynamical Streamflow Prediction Using Machine Learning and Deep Learning Methods
 
-## Contributors: Sadegh Sadeghi Tabas, Nushrat Humaira, Pawan Madanan, Siddish P Rao, Meghan Patil
+### Contributors: 
+    Sadegh Sadeghi Tabas, 
+    Nushrat Humaira, 
+    Pawan Madanan, 
+    Siddish P Rao, 
+    Meghan Patil
 
-## Project Description: 
+### Project Description: 
 In this research a number
 of data driven (machine learning and deep learning) and data mining methods
 including multi-layer perceptron (MLP), long short-term memory (LSTM) and a
