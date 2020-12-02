@@ -1,7 +1,7 @@
 ## CPSC8810 - Mining Massive Data Project
 
 ### Project Title: 
-A Web Platform for Dynamical Streamflow Prediction Using Machine Learning and Deep Learning Methods
+    A Web Platform for Dynamical Streamflow Prediction Using Machine Learning and Deep Learning Methods
 
 ### Contributors: 
     Sadegh Sadeghi Tabas
@@ -11,25 +11,20 @@ A Web Platform for Dynamical Streamflow Prediction Using Machine Learning and De
     Meghan Patil
 
 ### Project Description: 
-In this research a number of data driven (machine learning and deep learning) and data mining methods
-including multi-layer perceptron (MLP), long short-term memory (LSTM) and a
-hybrid deep learning method of convolutional neural network and LSTM have been
-implemented in a web designed platform to predict sequential flow rate values based
-on a set of collected runoff factors in a global scale (North America, South America
-and Africa).
+    In this research a number of data driven (machine learning and deep learning) and data mining methods including multi-layer perceptron (MLP), long short-term memory (LSTM) and a hybrid deep learning method of convolutional neural network and LSTM have been implemented in a web designed platform to predict sequential flow rate values based on a set of collected runoff factors in a global scale (North America, South America and Africa).
 
-### Required packages and Libraries:
-Tensorflow
-Keras
-Numpy
-Pandas
-Matplotlib
-Folium
-JS
-Jquery
-Leaflet
-Django
-ArcGIS Api
+### Required Packages and Libraries:
+    Tensorflow
+    Keras
+    Numpy
+    Pandas
+    Matplotlib
+    Folium
+    JS
+    Jquery
+    Leaflet
+    Django
+    ArcGIS Api
 
 ### Timeline:
 |Num| Todo List | Deadline | Status |
@@ -46,7 +41,11 @@ ArcGIS Api
 ## Repository info
 
 ### Datasets: 
-Each input station data comprises information from both GRDC and NCDC stations
+The input dataset retrieved from three sources as follows:
+    1- GRDC website
+    2- NCDS website
+    3- CAMELS dataset
+
 ### Reports: 
 Contains checkpoint reports
 ### Models:
