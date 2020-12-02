@@ -16,7 +16,7 @@
     of convolutional neural network and LSTM have been implemented in a web designed platform to predict sequential
     flow rate values based on a set of collected runoff factors in a global scale (North America, South America and Africa).
 
-### Required Packages and Libraries:
+### Dependencies:
     Tensorflow
     Keras
     Numpy
