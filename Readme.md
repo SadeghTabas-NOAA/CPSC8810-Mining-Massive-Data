@@ -7,9 +7,9 @@
 |02| Extract the Stations with less than 10% missing values | Sep 21 | Done! |
 |03| Implement an Automatic ARIMA model to fill the missing values | Sep 28 | Done! |
 |04| Submit the first report (Checkpoint 1) | Sep 30 | Done! |
-|05| Implement a Machine Learning Method to Forecast Streamflow | Oct 28 | Done |
-|06| Submit Checkpoint 2 | Oct 31 | Done |
-|07| Submit Checkpoint 3 and final report| Nov 30 | Done |
+|05| Implement a Machine Learning Method to Forecast Streamflow | Oct 28 | Done! |
+|06| Submit Checkpoint 2 | Oct 31 | Done! |
+|07| Submit Checkpoint 3 and final report| Nov 30 | Done! |
 |05| Presentation | Dec 8| Working! |
 
 ### Folder description
