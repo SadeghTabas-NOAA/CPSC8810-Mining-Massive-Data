@@ -19,9 +19,17 @@ on a set of collected runoff factors in a global scale (North America, South Ame
 and Africa).
 
 ## Required packages and Libraries:
-Tensorflow 1.15 with Keras 
-Numpy, Pandas, Matplotlib, Folium
-Javascript, Jquery, Leaflet, Django
+Tensorflow
+Keras
+Numpy
+Pandas
+Matplotlib
+Folium
+JS
+Jquery
+Leaflet
+Django
+ArcGIS Api
 
 ### Timeline:
 |Num| Todo List | Deadline | Status |
