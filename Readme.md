@@ -1,4 +1,22 @@
-## CPSC8810 - Mining Massive Data
+## CPSC8810 - Mining Massive Data Project
+
+## Project Title: A Web Platform for Dynamical Streamflow Prediction Using Machine Learning and Deep Learning Methods
+
+## Contributors: Sadegh Sadeghi Tabas, Nushrat Humaira, Pawan Madanan, Siddish P Rao, Meghan Patil
+
+## Project Description: 
+In this research a number
+of data driven (machine learning and deep learning) and data mining methods
+including multi-layer perceptron (MLP), long short-term memory (LSTM) and a
+hybrid deep learning method of convolutional neural network and LSTM have been
+implemented in a web designed platform to predict sequential flow rate values based
+on a set of collected runoff factors in a global scale (North America, South America
+and Africa).
+
+## Required packages and Libraries:
+Tensorflow 1.15 with Keras 
+Numpy, Pandas, Matplotlib, Folium
+Javascript, Jquery, Leaflet, Django
 
 ### Timeline:
 |Num| Todo List | Deadline | Status |
@@ -15,7 +33,6 @@
 ### Folder description
 
 Datasets: Each input station data comprises information from both GRDC and NCDC stations
-Documents: Empty
 Reports: Contains checkpoint reports
 Models:
     1. Two ipython notebooks fill the missing values using two different deep neural networks
@@ -26,7 +43,7 @@ Models:
     5. LSTM_Singlelayer, LSTM_CNN, MLP are three data driven models used in our project
     6. Streamflow prediction app with keras,django is an app to run inference on streamflow prediction model for one station
     7. encoder_decoder_lstm.py implements the seq2seq encoder-decoder LSTM network for future forecast and achived valid RMSE score of 116.46249
-    8. Web Platform for Dynamical Streamflow Prediction with leaflet, jQuery 
+    8. Django Web Platform for Dynamical Streamflow Prediction with leaflet, jQuery (Please load test.html to start the webapp)
 
 
 
