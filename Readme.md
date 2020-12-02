@@ -10,7 +10,7 @@
 |05| Implement a Machine Learning Method to Forecast Streamflow | Oct 28 | Done! |
 |06| Submit Checkpoint 2 | Oct 31 | Done! |
 |07| Submit Checkpoint 3 and final report| Nov 30 | Done! |
-|05| Presentation | Dec 8| Working! |
+|08| Presentation | Dec 8| Working! |
 
 ### Folder description
 
