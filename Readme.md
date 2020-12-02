@@ -35,11 +35,13 @@ Javascript, Jquery, Leaflet, Django
 |07| Submit Checkpoint 3 and final report| Nov 30 | Done! |
 |08| Presentation | Dec 8| Working! |
 
-### Folder description
+## Repository info
 
-Datasets: Each input station data comprises information from both GRDC and NCDC stations
-Reports: Contains checkpoint reports
-Models:
+### Datasets: 
+Each input station data comprises information from both GRDC and NCDC stations
+### Reports: 
+Contains checkpoint reports
+### Models:
     1. Two ipython notebooks fill the missing values using two different deep neural networks
     2. ARIMA.py replaces missing values with Autoregressive integrated moving average method
     3. GRDC_visualization.py performs analytics, given a world meterological union subregion, parse the grdc stations data and find geographically closest stations
